@@ -4,11 +4,11 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+title: Benjamin和Lily的自留地
+subtitle: "Benjamin和Lily的自留地"
+description: "Benjamin和Lily的自留地"
+keywords: Benjamin和Lily的自留地
+timezone: US/Hendersonville
 encoding: "utf-8"
 repository: mzlogin/mzlogin.github.io
 # 对 css 和 js 资源的 cdn 加速配置
@@ -37,7 +37,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: 闷骚的程序员
+        image_alt: Benjamin和Lily的自留地
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
@@ -51,12 +51,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Benjamin
 organization: 
 organization_url: 
 github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+location: Nashville, US
+email: benjamin.jones.usa@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -78,17 +78,17 @@ navs:
 #     href: /open-source/
 #     label: 开源
 
-  -
-    href: /wiki/
-    label: 维基
+#   -
+#     href: /wiki/
+#     label: 维基
 
-  -
-    href: /links/
-    label: 链接
+#   -
+#     href: /links/
+#     label: 链接
 
-  -
-    href: /about/
-    label: 关于
+#   -
+#     href: /about/
+#     label: 关于
 
 # ---------------- #
 #       RSS        #
